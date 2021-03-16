@@ -1,0 +1,19 @@
+{
+  "name": "if-version",
+  "version": "1.0.0",
+  "description": "This is simple code for running a cmd when version is equal",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/IF-VERSION.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/IF-VERSION/issues"
+  },
+  "homepage": "https://github.com/alestor123/IF-VERSION#readme"
+}
