@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is simple code for running a cmd when version is equal",
   "main": "App.js",
+  "bin": {
+    "if-version":"App.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
